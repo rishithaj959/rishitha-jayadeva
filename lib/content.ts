@@ -110,7 +110,7 @@ export const projects = [
     impact:
       "Took the win at Monash's project expo on the strength of a clean MySQL schema and a Python data-validation layer that kept downstream analysis trustworthy.",
     stack: ["MySQL", "Python", "LeanKit", "Miro"],
-    link: "https://github.com/",
+    link: "https://github.com/LELI1891633/5120-TE20-main-project",
   },
   {
     title: "Understanding Stocks!",
